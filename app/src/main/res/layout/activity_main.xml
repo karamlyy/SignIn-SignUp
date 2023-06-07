@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:background="#DCD2D2">
+    android:background="#BF9C9C">
 
     <com.google.android.material.tabs.TabLayout
         android:layout_width="match_parent"
@@ -22,6 +22,7 @@
     <androidx.viewpager2.widget.ViewPager2
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+
         android:id="@+id/viewPager2"/>
 
 
